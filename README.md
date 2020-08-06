@@ -1,5 +1,9 @@
 # 真央ゼミWebサイト
+<<<<<<< HEAD
 田中大学 真央ゼミのWebサイト用リポジトリです。
+=======
+中村大学 真央ゼミのWebサイト用リポジトリです。
+>>>>>>> 68fe809d893104c26f7ed3193c587a5c2c765bd0
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
